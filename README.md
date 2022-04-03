@@ -1,6 +1,6 @@
 # Programming-eBook-Collection
->汇总计算机编程学习资料仓库
->感谢相关作者的开源！！
+>- 项目目的：汇总计算机编程学习资料仓库
+>- 感谢相关作者的开源！！
 
 ## 1. 程序员相关电子书资料免费分享：
 - https://github.com/tangtangcoding/C-C-
